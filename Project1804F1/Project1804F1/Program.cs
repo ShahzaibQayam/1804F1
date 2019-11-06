@@ -12,6 +12,7 @@ namespace Project1804F1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("This is my first Page");
+            Console.WriteLine("Life is Good");
         }
     }
 }
